@@ -33,11 +33,6 @@ Users should be able to:
 
 ![](/images/Screenshot%202023-11-04%20at%2017-11-49%20Frontend%20Mentor%20Product%20preview%20card%20component.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
